@@ -1,0 +1,1 @@
+document.getElementById("mensaje").innerText = "El JavaScript está funcionando!";
